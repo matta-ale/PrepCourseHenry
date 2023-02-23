@@ -1,2 +1,2 @@
-# PrepCourseHenry
-El primer repo de prueba de Github
+Alexis Mattaruco
+Este proyecto es una prueba de cómo crear un repo
